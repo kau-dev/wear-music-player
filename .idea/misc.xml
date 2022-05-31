@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/drawable/ic_next.xml" value="0.1825" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/drawable/ic_pause.xml" value="0.245" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/drawable/ic_play.xml" value="0.1585" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/drawable/ic_previous.xml" value="0.2455" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/layout/activity_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/layout/main_menu.xml" value="0.3914590747330961" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/layout/main_menu_item.xml" value="0.6513157894736842" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/layout/mein_layout.xml" value="1.194078947368421" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/layout/now_playing.xml" value="0.9" />
+        <entry key="..\:/Android__source_code/wearmusicplayer_n/app/src/main/res/layout/settings_menu.xml" value="1.1546052631578947" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

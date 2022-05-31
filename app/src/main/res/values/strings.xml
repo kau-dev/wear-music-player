@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music player</string>
+    <string name="menu_item_icon">menu item icon</string>
+    <string name="menu_item">Menu Item</string>
+    <string name="path">/sdcard/music/</string>
+    <string name="notification">Music player</string>
+    <string name="previous">назад</string>
+    <string name="pause">пауза</string>
+    <string name="play">Играть</string>
+    <string name="stop">стоп</string>
+    <string name="next">следующий</string>
+    <string name="title_activity_main">Music player</string>
+    <string name="notification_channel_name">Music_player</string>
+    <string name="appbar_scrollingview_behavior">android.support.design.widget.BottomSheetBehavior</string>
+
+
+</resources>
